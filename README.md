@@ -9,7 +9,7 @@ You are encouraged to work in the language/framework of your choosing. This repo
 Build the necessary models and endpoint(s) for creating a listing.
 If you are using this repository, the models should live in `marketplace/api/models.py` and the endpoint(s) in `marketplace/api/views.py`.
 
-It is expected that you will spend up to 4 hours on this project. The intent is to replace several traditional "onsite" interviews and coding sessions with one project that is done on your own time in an environment that is more similar to your usual setup.
+It is expected that you will spend up to 4 hours on the backend and frontend pieces of this project combined. The intent is to replace several traditional "onsite" interviews and coding sessions with one project that is done on your own time in an environment that is more similar to your usual setup.
 
 ## Assessment
 We'll be looking at the design and architecture of your solution, including how you structure your code and your approach to data modeling. Don't be afraid to get creative!
