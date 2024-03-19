@@ -2,7 +2,7 @@
 Loma enables "click-to-deploy" commerce for online communities. Our platform lets any community organizer launch lightweight commerce rails for its members, including models like peer-to-peer marketplaces, sponsored classifieds, and directories.
 
 ## Project Goal
-The goal of this assignment is to create a flexible marketplace architecture which can handle the creation of a listing for both a sneaker marketplace and a hotel booking platform.
+The goal of this assignment is to create a flexible marketplace architecture which can handle the creation of a listing for both a sneaker marketplace and a hotel booking platform. The emphasis should be on flexibility over accomodating exactly these two use cases. 
 
 You are encouraged to work in the language/framework of your choosing. This repository is provided as a starting point, but its not required that you use it. We are more interested in your design using tools familiar to you than your ability to use Python/Django.
 
